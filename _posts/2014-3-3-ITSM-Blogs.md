@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here's a list of all my ITSM blogs
-description:   "A collation of my ITSM blog posts from different websites"
+subtitle:   "A collation of my ITSM blog posts from different websites"
 image: "https://thesearchauthority.weebly.com/uploads/1/4/7/6/14768720/4867402_orig.jpg"
 author: Sanjeev NC
 
