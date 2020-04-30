@@ -2,8 +2,8 @@
 layout: post
 title: Here's a list of all my ITSM blogs
 subtitle:   "A collation of my ITSM blog posts from different websites"
-image: "https://thesearchauthority.weebly.com/uploads/1/4/7/6/14768720/4867402_orig.jpg"
-author: Sanjeev NC
+image: "https://raw.githubusercontent.com/yenceesanjeev/yenceesanjeev.github.io/master/images/ITSM%20Blog%20Posts.png"
+author: yenceesanjeev
 
 ---
 
