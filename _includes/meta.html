@@ -3,9 +3,9 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    {% if page.excerpt %}
+    {% if page.subtitle %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta property="og:description" content="{{ page.subtitle| strip_html }}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
@@ -21,12 +21,6 @@
     <meta name="twitter:site"    content="@{{ site.twitter_username }}">
     <meta name="twitter:creator" content="@{{ page.author }}">
     <meta name="og:title"   content="{{ page.title }}">
-
-    {% if page.subtitle %}
-    <meta name="og:description" content="{{ page.subtitle }}">
-    {% else %}
-    <meta name="twitter:description" content="{{ site.description }}">
-    {% endif %}
 
     {% if page.image %}
     <meta name="twitter:card"  content="summary_large_image">
