@@ -34,9 +34,9 @@ Here's a list of all my ITSM blogs
 
 14) [IT does not back off from challenges, here's proof](https://freshservice.com/itsm/it-doesnt-back-off-from-challenges-heres-why-blog/)
 
-15) [Are Self Service Portals dying?] (https://freshservice.com/it-service-desk-software/are-self-service-portals-dying-blog/) 
+15) [Are Self Service Portals dying?](https://freshservice.com/it-service-desk-software/are-self-service-portals-dying-blog/) 
 
-16) [ReDeLI - Self Service Implementation Framework] (https://freshservice.com/itsm/the-redeli-approach-to-self-service-implementation-blog/)
+16) [ReDeLI - Self Service Implementation Framework](https://freshservice.com/itsm/the-redeli-approach-to-self-service-implementation-blog/)
 
 17) [How can Alexa help Service Management?](https://freshservice.com/it-service-desk-software/alexa-service-management-skill-blog/)
 
