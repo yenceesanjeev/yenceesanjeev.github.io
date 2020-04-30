@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here's a list of all my ITSM blogs
-subtitle:   "Deriving neuralnet gradient is an absolutely great exercise to understand backpropagation and computational graph better. In this post we will walk through the process of deriving LSTM net gradient so that we can use it in backpropagation"
+subtitle:   "A collation of my ITSM blog posts from different websites"
 header-img: "https://thesearchauthority.weebly.com/uploads/1/4/7/6/14768720/4867402_orig.jpg"
 ---
 
